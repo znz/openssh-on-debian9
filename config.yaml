@@ -1,0 +1,21 @@
+---
+id: openssh-on-debian9
+base_name: openssh-on-debian9
+tags:
+- debian
+- openssh
+presentation_date: 2017/06/18
+version: 2017.06.18
+licenses: []
+slideshare_id:
+speaker_deck_id:
+ustream_id:
+vimeo_id:
+youtube_id:
+author:
+  markup_language: :markdown
+  name: Kazuhiro NISHIYAMA
+  email: zn@mbf.nifty.com
+  rubygems_user: znz
+  slideshare_user: znzjp
+  speaker_deck_user: znz
